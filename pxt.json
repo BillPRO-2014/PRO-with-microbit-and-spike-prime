@@ -1,0 +1,13 @@
+{
+    "name": "PRO-with-microbit-and-spike-prime",
+    "version": "0.0.1",
+    "description": "micro:bit wireless communication with LEGO SPIKE Prime",
+    "dependencies": {
+        "core": "*",
+        "bluetooth": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "public": true
+}
